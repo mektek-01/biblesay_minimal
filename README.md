@@ -8,8 +8,8 @@ Install python.
 
 To install just
 
-'''
+```
 make install
-'''
+```
 
 Planning to add more verses and translate all verses to CSB in the future.
