@@ -3,7 +3,9 @@ Fork of biblesay by theeyeofcthulhu
 
 Print out one out of 100 verses in a speech bubble your terminal.
 
-Install
+Install:
+
+
 Install python.
 
 To install just
